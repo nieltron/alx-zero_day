@@ -1,4 +1,4 @@
 #!/bin/bash 
 echo "ALX School is open"
 echo "ALX"
-update_script
+
